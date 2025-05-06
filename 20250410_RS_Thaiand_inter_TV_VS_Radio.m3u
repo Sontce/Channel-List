@@ -719,6 +719,15 @@ https://media-ssl.musicradio.com/HeartLondon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://media-ssl.musicradio.com/RadioXLondon
 
+#EXTINF:-1, tvg-chno="221" tvg-name="Greatest Hits Radio"tvg-id="Greatest Hits Radio"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/229/greatest-hits-radio2.999ec76d.jpg" radio="true",Greatest Hits Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge-bauerall-01-gos2.sharp-stream.com/net2london.mp3
+
+#EXTINF:-1, tvg-chno="222" tvg-name="UK Capital Dance"tvg-id="UK Capital Dance"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/991/capital-dance.46de1809.png" radio="true",UK Capital Dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://media-ssl.musicradio.com/CapitalDance
+
+
 
 
 
