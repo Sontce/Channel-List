@@ -727,7 +727,7 @@ https://edge-bauerall-01-gos2.sharp-stream.com/net2london.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://media-ssl.musicradio.com/CapitalDance
 
-#EXTINF:-1, tvg-chno="223" tvg-name="Dance Classics"tvg-id="Dance Classics"https://static.mytuner.mobi/media/tvos_radios/143/dance-classics.52c6eb47.png" radio="true",Dance Classics
+#EXTINF:-1, tvg-chno="223" tvg-name="Dance Classics"tvg-id="Dance Classics"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/143/dance-classics.52c6eb47.png" radio="true",Dance Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream4.themediasite.co.uk/stream/danceclassics
 
