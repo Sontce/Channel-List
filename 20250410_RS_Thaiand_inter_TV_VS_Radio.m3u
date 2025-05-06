@@ -715,6 +715,11 @@ https://radio.virginradio.co.uk/stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://media-ssl.musicradio.com/HeartLondon
 
+#EXTINF:-1, tvg-chno="220" tvg-name="Radio X live"tvg-id="Radio X live"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3pTepgqLVc.png" radio="true",Radio X live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://media-ssl.musicradio.com/RadioXLondon
+
+
 
 
 
