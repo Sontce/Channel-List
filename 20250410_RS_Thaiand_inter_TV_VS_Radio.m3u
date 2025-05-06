@@ -706,3 +706,11 @@ https://inter.wowradiohit.com/radio/8010/radio.mp3
 #EXTINF:-1, tvg-chno="217" tvg-name="Great 93FM"tvg-id="Talay 902.5 FM"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/662/great-93.e95e7211.png" group-title="Thai radio" radio="true",Great 93FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://radio.vpsthai.net:9000/stream?type=http
+
+#EXTINF:-1, tvg-chno="218" tvg-name="Virgin Radio UK live"tvg-id="Virgin Radio UK live"tvg-logo="https://virginradio.co.uk/virgin/assets/virginradiouk-thumbnail.png" radio="true",Virgin Radio UK live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://radio.virginradio.co.uk/stream
+
+
+
+
