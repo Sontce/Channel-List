@@ -711,6 +711,10 @@ http://radio.vpsthai.net:9000/stream?type=http
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://radio.virginradio.co.uk/stream
 
+#EXTINF:-1, tvg-chno="219" tvg-name="Heart FM London 106.2 live"tvg-id="Heart FM London 106.2 live"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/300px-The_Heart_Network_logo.svg.png" radio="true",Heart FM London 106.2 live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://media-ssl.musicradio.com/HeartLondon
+
 
 
 
