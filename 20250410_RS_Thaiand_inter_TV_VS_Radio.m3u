@@ -719,7 +719,7 @@ https://media-ssl.musicradio.com/HeartLondon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://media-ssl.musicradio.com/RadioXLondon
 
-#EXTINF:-1, tvg-chno="221" tvg-name="Greatest Hits Radio"tvg-id="Greatest Hits Radio"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/229/greatest-hits-radio2.999ec76d.jpg" radio="true",Greatest Hits Radio
+#EXTINF:-1, tvg-chno="221" tvg-name="Greatest Hits Radio UK"tvg-id="Greatest Hits Radio"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/229/greatest-hits-radio2.999ec76d.jpg" radio="true",Greatest Hits Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge-bauerall-01-gos2.sharp-stream.com/net2london.mp3
 
@@ -727,11 +727,13 @@ https://edge-bauerall-01-gos2.sharp-stream.com/net2london.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://media-ssl.musicradio.com/CapitalDance
 
-#EXTINF:-1, tvg-chno="223" tvg-name="Dance Classics"tvg-id="Dance Classics"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/143/dance-classics.52c6eb47.png" radio="true",Dance Classics
+#EXTINF:-1, tvg-chno="223" tvg-name="Dance Classics UK"tvg-id="Dance Classics"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/143/dance-classics.52c6eb47.png" radio="true",Dance Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream4.themediasite.co.uk/stream/danceclassics
 
-
+#EXTINF:-1, tvg-chno="224" tvg-name=" Adult Hits Canada"tvg-id="Adult Hits Canada"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/chkbkh5gjvpz.jpg" radio="true",Adult Hits Canada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ice1.streeemer.com:8020/radio.aac
 
 
 
