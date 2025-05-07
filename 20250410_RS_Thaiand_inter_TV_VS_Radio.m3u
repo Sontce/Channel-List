@@ -731,7 +731,7 @@ https://media-ssl.musicradio.com/CapitalDance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream4.themediasite.co.uk/stream/danceclassics
 
-#EXTINF:-1, tvg-chno="224" tvg-name=" Adult Hits Canada"tvg-id="Adult Hits Canada"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/chkbkh5gjvpz.jpg" radio="true",Adult Hits Canada
+#EXTINF:-1, tvg-chno="224" tvg-name="Beam FM Adult Hits Canada"tvg-id="Beam FM Adult Hits Canada"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/chkbkh5gjvpz.jpg" radio="true",Beam FM Adult Hits Canada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ice1.streeemer.com:8020/radio.aac
 
