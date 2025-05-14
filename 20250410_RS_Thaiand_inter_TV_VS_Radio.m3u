@@ -2870,3 +2870,7 @@ https://stream4.themediasite.co.uk/stream/danceclassics
 #EXTINF:-1, tvg-chno="224" tvg-name="Beam FM Adult Hits Canada"tvg-id="Beam FM Adult Hits Canada"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/chkbkh5gjvpz.jpg" radio="true",Beam FM Adult Hits Canada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ice1.streeemer.com:8020/radio.aac
+
+#EXTINF:-1, tvg-chno="225" tvg-name="Totally Radio Hits Australian"tvg-id="Totally Radio Hits Australian"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/by9rcegw4mrd.png" radio="true",Totally Radio Hits Australian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://28793.live.streamtheworld.com/T_RAD_HITS_S01AAC_SC?dist=triton-widget&pname=tdwidgets
