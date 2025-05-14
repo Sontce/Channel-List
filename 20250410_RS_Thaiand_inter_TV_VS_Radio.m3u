@@ -2875,6 +2875,6 @@ https://ice1.streeemer.com:8020/radio.aac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://28793.live.streamtheworld.com/T_RAD_HITS_S01AAC_SC?dist=triton-widget&pname=tdwidgets
 
-#EXTINF:-1, tvg-chno="226" tvg-name="100Hitz - Hot Hitz live California"tvg-id="100Hitz - Hot Hitz live California"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/530/100hitz-hot-hitz.3e940722.png" radio="true",100Hitz - Hot Hitz live California
+#EXTINF:-1, tvg-chno="226" tvg-name="100Hitz Hot Hitz live California"tvg-id="100Hitz Hot Hitz live California"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/530/100hitz-hot-hitz.3e940722.png" radio="true",100Hitz Hot Hitz live California
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://pureplay.cdnstream1.com/6027_128.mp3
