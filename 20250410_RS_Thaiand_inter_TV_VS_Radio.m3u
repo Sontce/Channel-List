@@ -292,7 +292,7 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-name="TOPNEWS"tvg-id="TOPNEWS.th"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png"tvg-chno="77"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TOPNEWS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
+https://live.topnews.co.th/hls/mobile_v1.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-name="Suwannabhumi TV"tvg-id="Suwannabhumi.th"tvg-logo="https://www.lyngsat.com/logo/tv/ss/suwannabhumi_tv.png",Suwannabhumi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
