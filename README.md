@@ -13,7 +13,9 @@
 
 * [Free TV Channel List (.m3u)](https://sontce.github.io/Channel-List/20250623_RS_TV_CH_List.m3u)
 
----
+**---------------------------------------------------------**
+
+- https://sontce.github.io/Channel-List/20250623_RS_TV_CH_List.m3u
 
 ### **Disclaimer**
 
