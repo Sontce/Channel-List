@@ -306,7 +306,21 @@ https://live.topnews.co.th/hls/mobile_v1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=110938677&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDExOjMzOjAxIEFNJmhhc2hfdmFsdWU9eDJUMW5IWDl6NE5vZkQ3RzdTUzNzQT09JnZhbGlkbWludXRlcz0y
 
+#EXTINF:-1 tvg-chno="116" tvg-name="FWSOV"tvg-id="FWMOV"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWSOV.png",FWSOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=110982398&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDEyOjAwOjQxIFBNJmhhc2hfdmFsdWU9WVNwRWlMUHlHMUFDaFpSNndsQWFKdz09JnZhbGlkbWludXRlcz0y
 
+#EXTINF:-1 tvg-chno="117" tvg-name="FWTooN"tvg-id="FWTooN"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWTOON.png",FWTooN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=110977152&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDExOjU3OjI3IEFNJmhhc2hfdmFsdWU9VmYwSUtlTGcxTjNFeHZQb1l0NU5SUT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1 tvg-chno="118" tvg-name="FWDoc"tvg-id="FWTooN"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWDOC.png",FWDoc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/chunks.m3u8?nimblesessionid=110985419&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDEyOjAyOjMyIFBNJmhhc2hfdmFsdWU9SVJLZHk5eHlib2pnaU1zVDBKaGhRQT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1 tvg-chno="119" tvg-name="FWSport"tvg-id="FWSport"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWsport.png",FWSport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/chunks.m3u8?nimblesessionid=110990041&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDEyOjA1OjEyIFBNJmhhc2hfdmFsdWU9WlcweWNzVWhjM3hpMFhYdUNPR0dNUT09JnZhbGlkbWludXRlcz0y
 
 # =======================================================
 # ===              Korea Channel                      ===  
