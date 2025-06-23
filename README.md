@@ -1,9 +1,20 @@
-# ChannellTV -List
- 
-เป็นแค่การรวบรวมทีวีออนไลน์ โดยมีจุดประสงค์เพื่อประชาสัมพันธ์และส่งเสริมช่องรายการทีวีต่างๆ บนอินเตอร์เน็ตสำหรับผู้ที่ไม่สะดวกในการรับชมผ่านเครื่องรับโทรทัศน์เท่านั้น 
-ไม่มีการทำซ้ำหรือเปลี่ยนแปลงใดๆที่ส่งผลกับช่องทีวีนั้นๆ การกระทำนี้มิได้มีวัตถุประสงค์เป็นการแสวงหาประโยชน์หรือสนับสนุนการกระทำผิดต่อกฎหมายใดทั้งสิ้น
+# ChannelTV - List
+
+<div style="display: flex; align-items: center; gap: 10px;">
+    <span style="background-color: #6c757d; color: white; padding: 2px 8px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">UPDATE</span>
+    <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">2025.06.23</span>
+</div>
+
+เป็นแค่การรวบรวมช่องทีวีออนไลน์ โดยมีจุดประสงค์เพื่อประชาสัมพันธ์และส่งเสริมช่องรายการทีวีต่างๆ บนอินเทอร์เน็ตสำหรับผู้ที่ไม่สะดวกในการรับชมผ่านเครื่องรับโทรทัศน์เท่านั้น ไม่มีส่วนเกี่ยวข้องกับการกระทำซ้ำหรือเปลี่ยนแปลงใดๆ ที่ส่งผลกระทบต่อช่องทีวีนั้นๆ การกระทำนี้ไม่มีวัตถุประสงค์เพื่อแสวงหาผลประโยชน์หรือสนับสนุนการกระทำผิดกฎหมายใดๆ ทั้งสิ้น
+
 @2025
+
 ## Playlist URL
-- https://sontce.github.io/Channel-List/20250623_RS_TV_CH_List.m3u
-  
--------------------------------
+
+* [Free TV Channel List (.m3u)](https://sontce.github.io/Channel-List/20250623_RS_TV_CH_List.m3u)
+
+---
+
+### **Disclaimer**
+
+This project is intended for educational purposes only. The maintainers do not endorse or support any illegal activities. Users are responsible for their own actions.
