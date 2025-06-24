@@ -240,19 +240,20 @@ https://live.topnews.co.th/hls/mobile_v1.m3u8
 # =======================================================
 
 #EXTINF:-1 tvg-chno="116" tvg-id="FWMOV" tvg-name="FWMOV" tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWMOV.png" group-title="FW Channel",FWMOV
-https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=110938677&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDExOjMzOjAxIEFNJmhhc2hfdmFsdWU9eDJUMW5IWDl6NE5vZkQ3RzdTUzNzQT09JnZhbGlkbWludXRlcz0y
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=112693018&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDEwOjA5OjU0IEFNJmhhc2hfdmFsdWU9aVRXeEpycHd3anpuYTVOdXhBYTJkQT09JnZhbGlkbWludXRlcz0y
+
 
 #EXTINF:-1 tvg-chno="117" tvg-id="FWSOV" tvg-name="FWSOV" tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWSOV.png" group-title="FW Channel",FWSOV
-https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=110982398&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDEyOjAwOjQxIFBNJmhhc2hfdmFsdWU9WVNwRWlMUHlHMUFDaFpSNndsQWFKdz09JnZhbGlkbWludXRlcz0y
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=112694714&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDEwOjExOjA5IEFNJmhhc2hfdmFsdWU9UHp2OE5Kd3pObXRhQXhIelpucHY0QT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-chno="118" tvg-id="FWTooN" tvg-name="FWTooN" tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWTOON.png" group-title="FW Channel",FWTooN
-https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=110977152&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDExOjU3OjI3IEFNJmhhc2hfdmFsdWU9VmYwSUtlTGcxTjNFeHZQb1l0NU5SUT09JnZhbGlkbWludXRlcz0y
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=112696091&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDEwOjEyOjExIEFNJmhhc2hfdmFsdWU9cVdhZFJ2U0h1eCs0OTRTVm8xaDFVdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-chno="119" tvg-id="FWDoc" tvg-name="FWDoc" tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWDoc.png" group-title="FW Channel",FWDoc
-https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/chunks.m3u8?nimblesessionid=110985419&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDEyOjAyOjMyIFBNJmhhc2hfdmFsdWU9SVJLZHk5eHlib2pnaU1zVDBKaGhRQT09JnZhbGlkbWludXRlcz0y
+https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/chunks.m3u8?nimblesessionid=112697924&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDEwOjEzOjI4IEFNJmhhc2hfdmFsdWU9MnlOREkrcUhjNVJJWk4wNG5EQ2hodz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-chno="120" tvg-id="FWSport" tvg-name="FWSport" tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWsport.png" group-title="FW Channel",FWSport
-https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/chunks.m3u8?nimblesessionid=110990041&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDEyOjA1OjEyIFBNJmhhc2hfdmFsdWU9WlcweWNzVWhjM3hpMFhYdUNPR0dNUT09JnZhbGlkbWludXRlcz0y
+https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/chunks.m3u8?nimblesessionid=112699730&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDEwOjE0OjQyIEFNJmhhc2hfdmFsdWU9ZEFTdlJ3N3I5ZEFwdW1GZjRpMkd5Zz09JnZhbGlkbWludXRlcz0y
 
 
 
