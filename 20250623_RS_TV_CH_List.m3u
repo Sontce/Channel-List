@@ -250,35 +250,35 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-chno="101"  tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="INTL NEWS",CNN USA (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-chno="103" tvg-name="CNA"tvg-id="CNA.th"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png"tvg-chno="102"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",CNA HD
+#EXTINF:-1 tvg-chno="103" tvg-name="CNA"tvg-id="CNA.th"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png"tvg-chno="102"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"group-title="INTL NEWS",CNA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-chno="104" tvg-name="DW"tvg-id="DW.th"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png"tvg-chno="103"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",DW
+#EXTINF:-1 tvg-chno="104" tvg-name="DW"tvg-id="DW.th"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png"tvg-chno="103"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"group-title="INTL NEWS",DW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-name="Al Jazeera"tvg-id="DW.th"tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/71/Aljazeera.svg/162px-Aljazeera.svg.png"tvg-chno="104"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Al Jazeera
+#EXTINF:-1 tvg-chno="105" tvg-name="Al Jazeera"tvg-id="DW.th"tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/71/Aljazeera.svg/162px-Aljazeera.svg.png"tvg-chno="104"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"group-title="INTL NEWS",Al Jazeera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
-#EXTINF:-1 tvg-chno="106" tvg-name="Foxnews"tvg-id="Foxnews.th"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/225px-Fox_News_Channel_logo.svg.png"tvg-chno="105"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Foxnews
+#EXTINF:-1 tvg-chno="106" tvg-name="Foxnews"tvg-id="Foxnews.th"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/225px-Fox_News_Channel_logo.svg.png"tvg-chno="105"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"group-title="INTL NEWS",Foxnews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-#EXTINF:-1 tvg-chno="107" tvg-name="France 24"tvg-id="France 24.th"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/300px-FRANCE_24_logo.svg.png"tvg-chno="106"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",France 24
+#EXTINF:-1 tvg-chno="107" tvg-name="France 24"tvg-id="France 24.th"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/300px-FRANCE_24_logo.svg.png"tvg-chno="106"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"group-title="INTL NEWS",France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
 
-#EXTINF:-1 tvg-chno="108" tvg-name="RT"tvg-id="RT.th"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"tvg-chno="106"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT
+#EXTINF:-1 tvg-chno="108" tvg-name="RT"tvg-id="RT.th"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png"tvg-chno="106"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"group-title="INTL NEWS",RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
 
-#EXTINF:-1 tvg-chno="109" tvg-name="NHK"tvg-id="NHK.th"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/300px-NHK_World.svg.png"tvg-chno="107"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",NHK
+#EXTINF:-1 tvg-chno="109" tvg-name="NHK"tvg-id="NHK.th"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/300px-NHK_World.svg.png"tvg-chno="107"group-title="INTL NEWS":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"group-title="INTL NEWS",NHK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
-#EXTINF:-1 tvg-chno="110" tvg-name="Fashion TV UHD"tvg-id="Fashion.th TV UHD"tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/2/2e/FASHION_TV_HD_2017.png/revision/latest?cb=20220721063200&path-prefix=bg",Fashion TV UHD
+#EXTINF:-1 tvg-chno="110" tvg-name="Fashion TV UHD"tvg-id="Fashion.th TV UHD"tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/2/2e/FASHION_TV_HD_2017.png/revision/latest?cb=20220721063200&path-prefix=bg"group-title="INTL NEWS",Fashion TV UHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
@@ -286,15 +286,15 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-chno="112" tvg-name="BBC News"tvg-id="BBC News.th TV UHD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/200px-BBC_News_2019.svg.png",BBC News
+#EXTINF:-1 tvg-chno="112" tvg-name="BBC News"tvg-id="BBC News.th TV UHD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/200px-BBC_News_2019.svg.png"group-title="INTL NEWS",BBC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1 tvg-chno="113" tvg-name="CBS News"tvg-id="CBS News.th TV UHD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/960px-CBS_News_logo_%282020%29.svg.png",CBS News
+#EXTINF:-1 tvg-chno="113" tvg-name="CBS News"tvg-id="CBS News.th TV UHD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/960px-CBS_News_logo_%282020%29.svg.png",group-title="INTL NEWS"CBS News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
-#EXTINF:-1 tvg-chno="114" tvg-name="CGTN"tvg-id="CGTN.th TV UHD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/960px-CGTN.png",CGTN
+#EXTINF:-1 tvg-chno="114" tvg-name="CGTN"tvg-id="CGTN.th TV UHD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/960px-CGTN.png"group-title="INTL NEWS",CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
@@ -302,23 +302,23 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.topnews.co.th/hls/mobile_v1.m3u8
 
-#EXTINF:-1 tvg-chno="116" tvg-name="FWMOV"tvg-id="FWMOV"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWMOV.png",FWMOV
+#EXTINF:-1 tvg-chno="116" tvg-name="FWMOV"tvg-id="FWMOV"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWMOV.png"group-title="INTL NEWS",FWMOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=110938677&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDExOjMzOjAxIEFNJmhhc2hfdmFsdWU9eDJUMW5IWDl6NE5vZkQ3RzdTUzNzQT09JnZhbGlkbWludXRlcz0y
 
-#EXTINF:-1 tvg-chno="117" tvg-name="FWSOV"tvg-id="FWMOV"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWSOV.png",FWSOV
+#EXTINF:-1 tvg-chno="117" tvg-name="FWSOV"tvg-id="FWMOV"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWSOV.png"group-title="INTL NEWS",FWSOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=110982398&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDEyOjAwOjQxIFBNJmhhc2hfdmFsdWU9WVNwRWlMUHlHMUFDaFpSNndsQWFKdz09JnZhbGlkbWludXRlcz0y
 
-#EXTINF:-1 tvg-chno="118" tvg-name="FWTooN"tvg-id="FWTooN"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWTOON.png",FWTooN
+#EXTINF:-1 tvg-chno="118" tvg-name="FWTooN"tvg-id="FWTooN"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWTOON.png"group-title="INTL NEWS",FWTooN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=110977152&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDExOjU3OjI3IEFNJmhhc2hfdmFsdWU9VmYwSUtlTGcxTjNFeHZQb1l0NU5SUT09JnZhbGlkbWludXRlcz0y
 
-#EXTINF:-1 tvg-chno="119" tvg-name="FWDoc"tvg-id="FWTooN"tvg-logo="https://github.com/Sontce/Channel-List",FWDoc
+#EXTINF:-1 tvg-chno="119" tvg-name="FWDoc"tvg-id="FWTooN"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWDoc.png"group-title="INTL NEWS",FWDoc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/chunks.m3u8?nimblesessionid=110985419&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDEyOjAyOjMyIFBNJmhhc2hfdmFsdWU9SVJLZHk5eHlib2pnaU1zVDBKaGhRQT09JnZhbGlkbWludXRlcz0y
 
-#EXTINF:-1 tvg-chno="120" tvg-name="FWSport"tvg-id="FWSport"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWsport.png",FWSport
+#EXTINF:-1 tvg-chno="120" tvg-name="FWSport"tvg-id="FWSport"tvg-logo="https://sontce.github.io/TV-Channel-Icon/FWsport.png"group-title="INTL NEWS",FWSport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/chunks.m3u8?nimblesessionid=110990041&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDEyOjA1OjEyIFBNJmhhc2hfdmFsdWU9WlcweWNzVWhjM3hpMFhYdUNPR0dNUT09JnZhbGlkbWludXRlcz0y
 
