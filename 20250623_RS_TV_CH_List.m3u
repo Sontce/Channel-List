@@ -233,7 +233,7 @@ https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/m
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-chno="114" tvg-id="TOPNEWS.th" tvg-name="TOPNEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png" group-title="Inter NEWs",TOPNEWS HD
-https://live.topnews.co.th/hls/mobile_v1.m3u8
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 # =======================================================
 # ===         FW Channels (Dynamic Links)           ===
