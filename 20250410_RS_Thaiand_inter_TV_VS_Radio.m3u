@@ -147,6 +147,11 @@ https://lb1-live-mv.v2h-cdn.com/hls/fdcc/mvmallok/mvmallok.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fdc9/prod/prod.m3u8
 
+#EXTINF:-1 tvg-chno="77" tvg-id="TOPNEWS.th" tvg-name="TOPNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png" group-title="Digital TV", TOPNEWS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.topnews.co.th/hls/mobile_v1.m3u8
+
+
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="IPTV-THAI.th" tvg-name="IPTV-THAI" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png" group-title="Digital TV", IPTV-THAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
