@@ -88,7 +88,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
 
 #EXTINF:-1 tvg-chno="22" ch-number="22" tvg-id="Nation.th" tvg-name="Nation" tvg-logo="https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="Digital TV", Nation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/480p/index.m3u8
 
 #EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint.th" tvg-name="Workpoint" tvg-logo="https://media-mvtv.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png" group-title="Digital TV", Workpoint
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
