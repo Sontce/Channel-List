@@ -1815,3 +1815,7 @@ https://28793.live.streamtheworld.com/T_RAD_HITS_S01AAC_SC?dist=triton-widget&pn
 
 #EXTINF:-1 tvg-chno="226" tvg-name="100Hitz Hot Hitz live California" tvg-id="100Hitz Hot Hitz live California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/530/100hitz-hot-hitz.3e940722.png" group-title="Radio Channel" radio="true",100Hitz Hot Hitz live California
 https://pureplay.cdnstream1.com/6027_128.mp3
+
+#EXTINF:-1 tvg-chno="227" tvg-name="MCOT Radio network" tvg-id="https://sontce.github.io/TV-Channel-Icon/MCOT_Radio.png" group-title="Radio Channel" radio="true",100Hitz Hot Hitz live California
+http://rstream.mcot.net:9040/;
+
