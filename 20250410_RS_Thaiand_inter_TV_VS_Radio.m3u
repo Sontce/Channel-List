@@ -1,15 +1,18 @@
-#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600"
-# Update on 2025 11 27
+# Free IPTV List By RS
+# =======================================================
+# Update 20251127 12:06 UTC+07 ICT
+# =======================================================
+
 # =======================================================
 # === Digital TV (Digital TV Channels)
 # =======================================================
 #EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="Digital TV", MVTV ท้องถิ่นไทย (75)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w2007294618_b2128000.m3u8?null
 
 #EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="Digital TV", NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w2007294618_b2128000.m3u8?null
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
 #EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="TPBS.th" tvg-name="TPBS" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="Digital TV", TPBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -85,7 +88,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
 
 #EXTINF:-1 tvg-chno="22" ch-number="22" tvg-id="Nation.th" tvg-name="Nation" tvg-logo="https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="Digital TV", Nation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/720p/index.m3u8
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/480p/index.m3u8
 
 #EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint.th" tvg-name="Workpoint" tvg-logo="https://media-mvtv.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png" group-title="Digital TV", Workpoint
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -133,7 +136,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
 #EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="7HD.th" tvg-name="7HD" tvg-logo="https://media-mvtv.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png" group-title="Digital TV", 7HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
 #EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV.th" tvg-name="PPTV" tvg-logo="https://media-mvtv.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png" group-title="Digital TV", PPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -280,10 +283,6 @@ https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/m
 #EXTINF:-1 tvg-chno="114" tvg-id="CGTN.th TV UHD" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/960px-CGTN.png" group-title="INTL NEWS", CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-chno="115" tvg-id="TOPNEWS.th" tvg-name="TOPNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png" group-title="INTL NEWS", TOPNEWS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live.topnews.co.th/hls/mobile_v1.m3u8
 
 #EXTINF:-1 tvg-id="Suwannabhumi.th" tvg-name="Suwannabhumi TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/suwannabhumi_tv.png" group-title="INTL NEWS", Suwannabhumi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1755,3 +1754,64 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m
 
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="News", Arirang TV (1080p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang
+
+# =======================================================
+# ===                Radio Channel                    ===
+# =======================================================
+
+#EXTINF:-1 tvg-chno="201" tvg-name="Cool fahrenheit 93" tvg-id="Cool fahrenheit 93" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png" group-title="Radio Channel" radio="true",Cool fahrenheit 93
+https://coolism-web.cdn.byteark.com/;stream/1
+
+#EXTINF:-1 tvg-chno="202" tvg-name="Adult HITS Beam FM" tvg-id="Adult HITS Beam FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg" group-title="Radio Channel" radio="true",Adult HITS Beam FM
+https://ice1.streeemer.com:8020/radio.mp3
+
+#EXTINF:-1 tvg-chno="206" tvg-name="Easy Fm" tvg-id="Easy Fm" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/M5t3aG2vcB.png" group-title="Radio Channel" radio="true",Easy Fm
+https://22283.live.streamtheworld.com/EAZYFM_1055AAC.aac?dist=TRITON-WEB&dob=&gender=&ttag=work%3A&gdpr=876&gdpr_consent=GDPRCONSENTSTRING&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=970x250&burst-time=15&sbmid=0cdccbd9-9138-4a29-f225-478fca0db2c7
+
+#EXTINF:-1 tvg-chno="209" tvg-name="Met 107" tvg-id="Met 107" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rf6jXen9zU.jpg" group-title="Radio Channel" radio="true",Met 107
+https://eb27a17z.mcot.net/FM107/fm107.stream_aac/chunklist_w1012621219.m3u8
+
+#EXTINF:-1 tvg-chno="210" tvg-name="Flex 104.5 FM" tvg-id="Flex 104.5 FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yevk8f78cyqr.jpeg" group-title="Radio Channel" radio="true",Flex 104.5 FM
+https://streaming.flexconnect.net/voiceflex/voiceflex/chunklist_w2133281461.m3u8
+
+#EXTINF:-1 tvg-chno="211" tvg-name="Top Radio 93.5 Fm" tvg-id="Top Radio 93.5 Fm" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nns72bppeakv.png" group-title="Radio Channel" radio="true",Top Radio 93.5 Fm
+https://a10.asurahosting.com:8250/radio.mp3?refresh=1751553164542
+
+#EXTINF:-1 tvg-chno="212" tvg-name="Request Radio Music" tvg-id="Request Radio Music" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png" group-title="Radio Channel" radio="true",Request Radio Music
+http://cast.requestradio.in.th:8100/stream
+
+#EXTINF:-1 tvg-chno="213" tvg-name="ฟังเพลง เก่า" tvg-id="ฟังเพลง เก่า" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zMhgkXweTG.png" group-title="Radio Channel" radio="true",ฟังเพลง เก่า
+http://112.121.150.133:8022/stream
+
+#EXTINF:-1 tvg-chno="214" tvg-name="Talay 902.5 FM" tvg-id="Talay 902.5 FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ez9zkfnkwmvf.png" group-title="Radio Channel" radio="true",Talay 902.5 FM
+http://206.189.157.88:8000/talay
+
+#EXTINF:-1 tvg-chno="216" tvg-name="String WoW radio" tvg-id="String WoW radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/282/string-wowradio.6ca455bf.jpg" group-title="Radio Channel" radio="true",String WoW radio
+https://inter.wowradiohit.com/radio/8010/radio.mp3
+
+#EXTINF:-1 tvg-chno="218" tvg-name="Virgin Radio UK live" tvg-id="Virgin Radio UK live" tvg-logo="https://virginradio.co.uk/virgin/assets/virginradiouk-thumbnail.png" group-title="Radio Channel" radio="true",Virgin Radio UK live
+https://radio.virginradio.co.uk/stream
+
+#EXTINF:-1 tvg-chno="219" tvg-name="Heart FM London 106.2 live" tvg-id="Heart FM London 106.2 live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/300px-The_Heart_Network_logo.svg.png" group-title="Radio Channel" radio="true",Heart FM London 106.2 live
+https://media-ssl.musicradio.com/HeartLondon
+
+#EXTINF:-1 tvg-chno="220" tvg-name="Radio X live" tvg-id="Radio X live" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3pTepgqLVc.png" group-title="Radio Channel" radio="true",Radio X live
+https://media-ssl.musicradio.com/RadioXLondon
+
+#EXTINF:-1 tvg-chno="221" tvg-name="Greatest Hits Radio UK" tvg-id="Greatest Hits Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/229/greatest-hits-radio2.999ec76d.jpg" group-title="Radio Channel" radio="true",Greatest Hits Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/net2london.mp3
+
+#EXTINF:-1 tvg-chno="222" tvg-name="UK Capital Dance" tvg-id="UK Capital Dance" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/991/capital-dance.46de1809.png" group-title="Radio Channel" radio="true",UK Capital Dance
+https://media-ssl.musicradio.com/CapitalDance
+
+#EXTINF:-1 tvg-chno="223" tvg-name="Dance Classics UK" tvg-id="Dance Classics" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/143/dance-classics.52c6eb47.png" group-title="Radio Channel" radio="true",Dance Classics
+https://stream4.themediasite.co.uk/stream/danceclassics
+
+#EXTINF:-1 tvg-chno="224" tvg-name="Beam FM Adult Hits Canada" tvg-id="Beam FM Adult Hits Canada" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/chkbkh5gjvpz.jpg" group-title="Radio Channel" radio="true",Beam FM Adult Hits Canada
+https://ice1.streeemer.com:8020/radio.aac
+
+#EXTINF:-1 tvg-chno="225" tvg-name="Totally Radio Hits Australian" tvg-id="Totally Radio Hits Australian" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/by9rcegw4mrd.png" group-title="Radio Channel" radio="true",Totally Radio Hits Australian
+https://28793.live.streamtheworld.com/T_RAD_HITS_S01AAC_SC?dist=triton-widget&pname=tdwidgets
+
+#EXTINF:-1 tvg-chno="226" tvg-name="100Hitz Hot Hitz live California" tvg-id="100Hitz Hot Hitz live California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/530/100hitz-hot-hitz.3e940722.png" group-title="Radio Channel" radio="true",100Hitz Hot Hitz live California
+https://pureplay.cdnstream1.com/6027_128.mp3
