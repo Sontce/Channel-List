@@ -6,6 +6,7 @@
 # =======================================================
 # === Digital TV (Digital TV Channels)
 # =======================================================
+#EXTM3U
 #EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="Digital TV", MVTV ท้องถิ่นไทย (75)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w2007294618_b2128000.m3u8?null
@@ -1826,6 +1827,7 @@ https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 #EXTINF:-1 tvg-chno="222" tvg-name="Talay 90.25 FM" tvg-id="Talay 90.25 FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Talay.png" group-title="Radio Channel" radio="true",Talay 90.25 FM
 https://stream.talay.asia/talay
 
-#EXTINF:-1 tvg-chno="223" tvg-name="FAT 93" ttvg-id="FAT 93" tvg-logo="ttps://sontce.github.io/TV-Channel-Icon/FAT93.png" group-title="Radio Channel" radio="true",FAT 93
+#EXTINF:-1 tvg-chno="223" tvg-name="FAT 93" ttvg-id="FAT 93" tvg-logo="https://sontce.github.io/TV-Channel-Icon/FAT93.png" group-title="Radio Channel" radio="true",FAT 93
 http://112.121.151.133:8272/stream
+
 
