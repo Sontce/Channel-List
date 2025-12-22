@@ -1755,6 +1755,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="News", Arirang TV (1080p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang
 
+
 # =======================================================
 # ===                Radio Channel                    ===
 # =======================================================
@@ -1804,26 +1805,26 @@ https://eb27a17z.mcot.net/FM107/fm107.stream_aac/chunklist_w1012621219.m3u8
 #EXTINF:-1 tvg-chno="215" tvg-name="Request Radio Music" tvg-id="Request Radio Music" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png" group-title="Radio Channel" radio="true",Request Radio Music
 http://cast.requestradio.in.th:8100/stream
 
-#EXTINF:-1 tvg-chno="216" tvg-name="GreenWave" tvg-id="https://sontce.github.io/TV-Channel-Icon/GreenWave.png" group-title="Radio Channel" radio="true",GreenWave
+#EXTINF:-1 tvg-chno="216" tvg-name="GreenWave"tvg-id="GreenWave" tvg-logo="https://sontce.github.io/TV-Channel-Icon/GreenWave.png" group-title="Radio Channel" radio="true",GreenWave
 https://atimeonline3.smartclick.co.th/green
 
-#EXTINF:-1 tvg-chno="217" tvg-name="EFM" tvg-id="https://sontce.github.io/TV-Channel-Icon/EFM.png" group-title="Radio Channel" radio="true",EFM
+#EXTINF:-1 tvg-chno="217" tvg-name="EFM" tvg-id="EFM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/EFM.png" group-title="Radio Channel" radio="true",EFM
 https://atimeonline3.smartclick.co.th/efm
 
-#EXTINF:-1 tvg-chno="218" tvg-name="HotWave" tvg-id="https://sontce.github.io/TV-Channel-Icon/HotwaveFM.jpg" group-title="Radio Channel" radio="true",HotWave
+#EXTINF:-1 tvg-chno="218" tvg-name="HotWave" tvg-id="HotWave" tvg-logo="https://sontce.github.io/TV-Channel-Icon/HotwaveFM.jpg" group-title="Radio Channel" radio="true",HotWave
 https://atimeonline3.smartclick.co.th/hotwave
 
-#EXTINF:-1 tvg-chno="219" tvg-name="Great 93 FM" tvg-id="https://sontce.github.io/TV-Channel-Icon/Great93FM.png" group-title="Radio Channel" radio="true",Great 93 FM
+#EXTINF:-1 tvg-chno="219" tvg-name="Great 93 FM" tvg-id="Great 93 FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Great93FM.png" group-title="Radio Channel" radio="true",Great 93 FM
 https://radio.vpsthai.net/proxy/qndrbfic/stream
 
-#EXTINF:-1 tvg-chno="220" tvg-name="The Shock FM" tvg-id="https://sontce.github.io/TV-Channel-Icon/TheShockFM.png" group-title="Radio Channel" radio="true",The Shock FM
+#EXTINF:-1 tvg-chno="220" tvg-name="The Shock FM" tvg-id="The Shock FM" tvg-logo=https://sontce.github.io/TV-Channel-Icon/TheShockFM.png" group-title="Radio Channel" radio="true",The Shock FM
 https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="221" tvg-name="Flex104.5" tvg-id="https://sontce.github.io/TV-Channel-Icon/Flex104_5.png" group-title="Radio Channel" radio="true",Flex104.5
+#EXTINF:-1 tvg-chno="221" tvg-name="Flex104.5" tvg-id="Flex104.5" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Flex104_5.png" group-title="Radio Channel" radio="true",Flex104.5
 https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="222" tvg-name="Talay 90.25 FM" tvg-id="https://sontce.github.io/TV-Channel-Icon/Talay.png" group-title="Radio Channel" radio="true",Talay 90.25 FM
+#EXTINF:-1 tvg-chno="222" tvg-name="Talay 90.25 FM" tvg-id="Talay 90.25 FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Talay.png" group-title="Radio Channel" radio="true",Talay 90.25 FM
 https://stream.talay.asia/talay
 
-#EXTINF:-1 tvg-chno="223" tvg-name="FAT 93" tvg-id="ttps://sontce.github.io/TV-Channel-Icon/FAT93.png" group-title="Radio Channel" radio="true",FAT 93
+#EXTINF:-1 tvg-chno="223" tvg-name="FAT 93" ttvg-id="FAT 93" tvg-logo="ttps://sontce.github.io/TV-Channel-Icon/FAT93.png" group-title="Radio Channel" radio="true",FAT 93
 http://112.121.151.133:8272/stream
