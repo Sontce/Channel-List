@@ -1773,7 +1773,7 @@ https://inter.wowradiohit.com/radio/8010/radio.mp3
 #EXTINF:-1 tvg-chno="204" tvg-name="Virgin Radio UK live" tvg-id="Virgin Radio UK live" tvg-logo="https://virginradio.co.uk/virgin/assets/virginradiouk-thumbnail.png" group-title="Radio Channel" radio="true",Virgin Radio UK live
 https://radio.virginradio.co.uk/stream
 
-#EXTINF:-1 tvg-chno="205" tvg-name="Heart FM London 106.2 live" tvg-id="Heart FM London 106.2 live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/300px-The_Heart_Network_logo.svg.png" group-title="Radio Channel" radio="true",Heart FM London 106.2 live
+#EXTINF:-1 tvg-chno="205" tvg-name="Heart FM London 106.2 live" tvg-id="Heart FM London 106.2 live" tvg-logo="https://sontce.github.io/TV-Channel-Icon/HeartFM.png" group-title="Radio Channel" radio="true",Heart FM London 106.2 live
 https://media-ssl.musicradio.com/HeartLondon
 
 #EXTINF:-1 tvg-chno="206" tvg-name="Radio X live" tvg-id="Radio X live" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3pTepgqLVc.png" group-title="Radio Channel" radio="true",Radio X live
