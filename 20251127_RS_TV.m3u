@@ -260,7 +260,7 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-id="RT.th" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="INTL NEWS", RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-chno="109" tvg-id="NHK" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/300px-NHK_World.svg.png" group-title="INTL NEWS", NHK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
