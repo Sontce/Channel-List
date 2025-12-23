@@ -268,7 +268,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 #EXTINF:-1 tvg-chno="110" tvg-id="Fashion.th TV UHD" tvg-name="Fashion TV UHD" tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/2/2e/FASHION_TV_HD_2017.png/revision/latest?cb=20220721063200&path-prefix=bg" group-title="INTL NEWS", Fashion TV UHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="111" tvg-id="ABC News.th TV UHD" tvg-name="ABC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqPqc_YrzXfv3eOUyoNQ3G_vwgQ72Zc46oFVy_a7BPJoxZuNbqbd2eWix8dTcqNWfDGk&usqp=CAU" group-title="INTL NEWS", ABC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
