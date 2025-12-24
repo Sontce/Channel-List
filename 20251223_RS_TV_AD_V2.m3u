@@ -1691,3 +1691,7 @@ http://112.121.151.133:8272/stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://23153.live.streamtheworld.com/T_RAD_90S_S01_SC
 
+#EXTINF:-1 tvg-chno="1025" ch-number="1025" tvg-name="HITZ Thailand" tvg-id="HITZ Thailand" tvg-logo="https://sontce.github.io/TV-Channel-Icon/HITzThailand.png" group-title="Radio Channel" radio="true",HITZ Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://22253.live.streamtheworld.com/HITZ_955AAC_128_SC?dist=TRITON-WEB&pname=TDSdk&ttag=work%3A
+
