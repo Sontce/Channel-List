@@ -6,7 +6,7 @@
 # =======================================================
 
 # =======================================================
-# === Digital TV (Digital TV Channels)
+# ===       Digital TV (Digital TV Channels)          === 
 # =======================================================
 
 #EXTM3U
@@ -167,7 +167,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
 
 # =======================================================
-# ===                              International Channel (INTL NEWS)                             ===
+# ===       International Channel (INTL NEWS)         ===
 # =======================================================
 
 #EXTM3U
@@ -228,7 +228,7 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
 
 # =======================================================
-# === Education TV (DLTV)
+# ===        Education TV (DLTV)                      ===
 # =======================================================
 
 #EXTINF:-1 tvg-chno="201" ch-number="201" tvg-id="DLTV1.th" tvg-name="DLTV1" tvg-logo="https://media-mvtv.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png" group-title="Education TV", DLTV1
@@ -292,7 +292,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 # =======================================================
-# ===                                  Korea Channel (Korea)                                          ===    
+# ===           Korea Channel (Korea)                 ===    
 # =======================================================
 
 #EXTINF:-1 tvg-chno="301" ch-number="301" tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="Korea", ABN TV (720p)
@@ -514,7 +514,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 
 # =======================================================
-# ===                                          Japan Channel (Japan)                                  === 
+# ===              Japan Channel (Japan)              === 
 # =======================================================
 
 #EXTINF:-1 tvg-chno="401" ch-number="401" tvg-id="JOAYDTV.jp" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="Japan", ABC (544p)
@@ -755,7 +755,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=4
 
 # =======================================================
-# ===                            Kids Channel (Kids)                                                    === 
+# ===         Kids Channel (Kids)                     === 
 # =======================================================
 
 #EXTINF:-1 tvg-chno="501" ch-number="501" tvg-id="3ABNKids.us" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Kids", 3ABN Kids
@@ -951,7 +951,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 
 # =======================================================
-# ===                             Animation Channel (Animation)                                   ===
+# ===         Animation Channel (Animation)           ===
 # =======================================================
 
 #EXTINF:-1 tvg-chno="601" ch-number="601" tvg-id="3ABNKids.us" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Animation", 3ABN Kids
@@ -999,7 +999,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 
 # =======================================================
-# ===                                       Sports Channel (Sports)                                    ===  
+# ===             Sports Channel (Sports)             ===  
 # =======================================================
 #EXTINF:-1 tvg-chno="701" ch-number="701" tvg-id="30AGolfKingdom.us" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="Sports", 30A Golf Kingdom
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1287,7 +1287,7 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 
 
 # =======================================================
-# ===                                         News Channel (News)                                    ===  
+# ===            News Channel (News)                  ===  
 # =======================================================
 
 #EXTINF:-1 tvg-chno="801" ch-number="801" tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="News", 2GB Sydney (1080p)
@@ -1491,7 +1491,7 @@ http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 
 # =======================================================
-# ===                          Adults Channel                                                            ===
+# ===             Adults Channel                      ===
 # =======================================================
 
 #EXTINF:-1 tvg-chno="901" ch-number="901" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX", Live Cams
@@ -1592,7 +1592,7 @@ http://cdn.adultiptv.net/asian.m3u8
 
 
 # =======================================================
-# ===                                        Radio Channel                                               ===
+# ===          Radio Channel                          ===
 # =======================================================
 
 #EXTINF:-1 tvg-chno="1001" ch-number="1001" tvg-name="Adult HITS Beam FM" tvg-id="Adult HITS Beam FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg" group-title="Radio Channel" radio="true",Adult HITS Beam FM
@@ -1644,4 +1644,46 @@ https://pureplay.cdnstream1.com/6027_128.mp3
 https://coolism-web.cdn.byteark.com/;stream/1
 
 #EXTINF:-1 tvg-chno="1013" ch-number="1013" tvg-name="Easy Fm" tvg-id="Easy Fm" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/M5t3aG2vcB.png" group-title="Radio Channel" radio="true",Easy Fm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://22283.live.streamtheworld.com/EAZYFM_1055AAC.aac?dist=TRITON-WEB&dob=&gender=&ttag=work%3A&gdpr=876&gdpr_consent=GDPRCONSENTSTRING&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=970x250&burst-time=15&sbmid=0cdccbd9-9138-4a29-f225-478fca0db2c7
+
+#EXTINF:-1 tvg-chno="1014" ch-number="1014" tvg-name="Met 107" tvg-id="Met 107" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rf6jXen9zU.jpg" group-title="Radio Channel" radio="true",Met 107
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://eb27a17z.mcot.net/FM107/fm107.stream_aac/chunklist_w1012621219.m3u8
+
+#EXTINF:-1 tvg-chno="1015" ch-number="1015" tvg-name="Request Radio Music" tvg-id="Request Radio Music" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png" group-title="Radio Channel" radio="true",Request Radio Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cast.requestradio.in.th:8100/stream
+
+#EXTINF:-1 tvg-chno="1016" ch-number="1016" tvg-name="GreenWave" tvg-id="GreenWave" tvg-logo="https://sontce.github.io/TV-Channel-Icon/GreenWave.png" group-title="Radio Channel" radio="true",GreenWave
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://atimeonline3.smartclick.co.th/green
+
+#EXTINF:-1 tvg-chno="1017" ch-number="1017" tvg-name="EFM" tvg-id="EFM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/EFM.png" group-title="Radio Channel" radio="true",EFM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://atimeonline3.smartclick.co.th/efm
+
+#EXTINF:-1 tvg-chno="1018" ch-number="1018" tvg-name="HotWave" tvg-id="HotWave" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Hot91_5.png" group-title="Radio Channel" radio="true",HotWave
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://atimeonline3.smartclick.co.th/hotwave
+
+#EXTINF:-1 tvg-chno="1019" ch-number="1019" tvg-name="Great 93 FM" tvg-id="Great 93 FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Great93FM.png" group-title="Radio Channel" radio="true",Great 93 FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://radio.vpsthai.net/proxy/qndrbfic/stream
+
+#EXTINF:-1 tvg-chno="1020" ch-number="1020" tvg-name="The Shock FM" tvg-id="The Shock FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/TheShockFM.png" group-title="Radio Channel" radio="true",The Shock FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1021" ch-number="1021" tvg-name="Flex104.5" tvg-id="Flex104.5" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Flex104_5.png" group-title="Radio Channel" radio="true",Flex104.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1022" ch-number="1022" tvg-name="Talay 90.25 FM" tvg-id="Talay 90.25 FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Talay.png" group-title="Radio Channel" radio="true",Talay 90.25 FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://stream.talay.asia/talay
+
+#EXTINF:-1 tvg-chno="1023" ch-number="1023" tvg-name="FAT 93" tvg-id="FAT 93" tvg-logo="https://sontce.github.io/TV-Channel-Icon/FAT93.png" group-title="Radio Channel" radio="true",FAT 93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://112.121.151.133:8272/stream
+
