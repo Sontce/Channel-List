@@ -170,62 +170,61 @@ https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
 # ===       International Channel (INTL NEWS)         ===
 # =======================================================
 
-#EXTM3U
-#EXTINF:-1 tvg-chno="101" ch-number="101" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="INTL NEWS", CNN USA (720p)
+#EXTINF:-1 tvg-chno="101" ch-number="101" tvg-id="CNN.us" tvg-logo="https://sontce.github.io/TV-Channel-Icon/CNN.png" group-title="INTL NEWS", CNN USA (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-chno="102" ch-number="102" tvg-id="CNA.th" tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="INTL NEWS", CNA HD
+#EXTINF:-1 tvg-chno="102" ch-number="102" tvg-id="CNA.th" tvg-name="CNA" tvg-logo="https://sontce.github.io/TV-Channel-Icon/CNA.png" group-title="INTL NEWS", CNA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-chno="103" ch-number="103" tvg-id="DW.th" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png" group-title="INTL NEWS", DW
+#EXTINF:-1 tvg-chno="103" ch-number="103" tvg-id="DW.th" tvg-name="DW" tvg-logo="https://sontce.github.io/TV-Channel-Icon/DW.png" group-title="INTL NEWS", DW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="Al Jazeera.th" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/71/Aljazeera.svg/162px-Aljazeera.svg.png" group-title="INTL NEWS", Al Jazeera
+#EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="Al Jazeera.th" tvg-name="Al Jazeera" tvg-logo="https://sontce.github.io/TV-Channel-Icon/AlJazeera.png" group-title="INTL NEWS", Al Jazeera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
-#EXTINF:-1 tvg-chno="105" ch-number="105" tvg-id="Foxnews.th" tvg-name="Foxnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/225px-Fox_News_Channel_logo.svg.png" group-title="INTL NEWS", Foxnews
+#EXTINF:-1 tvg-chno="105" ch-number="105" tvg-id="Foxnews.th" tvg-name="Foxnews" tvg-logo="https://sontce.github.io/TV-Channel-Icon/FoxNews.png" group-title="INTL NEWS", Foxnews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-#EXTINF:-1 tvg-chno="106" ch-number="106" tvg-id="France 24.th" tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/300px-FRANCE_24_logo.svg.png" group-title="INTL NEWS", France 24
+#EXTINF:-1 tvg-chno="106" ch-number="106" tvg-id="France 24.th" tvg-name="France 24" tvg-logo="https://sontce.github.io/TV-Channel-Icon/France24.png" group-title="INTL NEWS", France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-chno="107" ch-number="107" tvg-id="RT.th" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="INTL NEWS", RT
+#EXTINF:-1 tvg-chno="107" ch-number="107" tvg-id="RT.th" tvg-name="RT" tvg-logo="https://sontce.github.io/TV-Channel-Icon/RT.png" group-title="INTL NEWS", RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="108" ch-number="108" tvg-id="NHK" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/300px-NHK_World.svg.png" group-title="INTL NEWS", NHK
+#EXTINF:-1 tvg-chno="108" ch-number="108" tvg-id="NHK" tvg-name="NHK" tvg-logo="https://sontce.github.io/TV-Channel-Icon/NHK_World.png" group-title="INTL NEWS", NHK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
-#EXTINF:-1 tvg-chno="109" ch-number="109" tvg-id="Fashion.th TV UHD" tvg-name="Fashion TV UHD" tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/2/2e/FASHION_TV_HD_2017.png/revision/latest?cb=20220721063200&path-prefix=bg" group-title="INTL NEWS", Fashion TV UHD
+#EXTINF:-1 tvg-chno="109" ch-number="109" tvg-id="Fashion.th TV UHD" tvg-name="Fashion TV UHD" tvg-logo="https://sontce.github.io/TV-Channel-Icon/FashionTV.png" group-title="INTL NEWS", Fashion TV UHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="110" ch-number="110" tvg-id="ABC News.th TV UHD" tvg-name="ABC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqPqc_YrzXfv3eOUyoNQ3G_vwgQ72Zc46oFVy_a7BPJoxZuNbqbd2eWix8dTcqNWfDGk&usqp=CAU" group-title="INTL NEWS", ABC News
+#EXTINF:-1 tvg-chno="110" ch-number="110" tvg-id="ABC News.th TV UHD" tvg-name="ABC News" tvg-logo="https://sontce.github.io/TV-Channel-Icon/abcNews.png" group-title="INTL NEWS", ABC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-chno="111" ch-number="111" tvg-id="BBC News.th TV UHD" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/200px-BBC_News_2019.svg.png" group-title="INTL NEWS", BBC News
+#EXTINF:-1 tvg-chno="111" ch-number="111" tvg-id="BBC News.th TV UHD" tvg-name="BBC News" tvg-logo="https://sontce.github.io/TV-Channel-Icon/BBC.png" group-title="INTL NEWS", BBC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1 tvg-chno="112" ch-number="112" tvg-id="CBS News.th TV UHD" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/960px-CBS_News_logo_%282020%29.svg.png" group-title="INTL NEWS", CBS News
+#EXTINF:-1 tvg-chno="112" ch-number="112" tvg-id="CBS News.th TV UHD" tvg-name="CBS News" tvg-logo="https://sontce.github.io/TV-Channel-Icon/CBS.png" group-title="INTL NEWS", CBS News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
-#EXTINF:-1 tvg-chno="113" ch-number="113" tvg-id="CGTN.th TV UHD" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/960px-CGTN.png" group-title="INTL NEWS", CGTN
+#EXTINF:-1 tvg-chno="113" ch-number="113" tvg-id="CGTN.th TV UHD" tvg-name="CGTN" tvg-logo="https://sontce.github.io/TV-Channel-Icon/CGTN.png" group-title="INTL NEWS", CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 
-#EXTINF:-1 tvg-chno="114" ch-number="114" tvg-id="Suwannabhumi.th" tvg-name="Suwannabhumi TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/suwannabhumi_tv.png" group-title="INTL NEWS", Suwannabhumi TV
+
+#EXTINF:-1 tvg-chno="114" ch-number="114" tvg-id="Suwannabhumi.th" tvg-name="Suwannabhumi TV" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Swannabhumi.png" group-title="INTL NEWS", Suwannabhumi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-
 
 # =======================================================
 # ===        Education TV (DLTV)                      ===
@@ -1698,3 +1697,4 @@ https://22253.live.streamtheworld.com/HITZ_955AAC_128_SC?dist=TRITON-WEB&pname=T
 #EXTINF:-1 tvg-chno="1026" ch-number="1026" tvg-name="Hot 899 Canada" tvg-id="Hot 899 Canada" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Hot899.png" group-title="Radio Channel" radio="true",Hot 899 Canada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://newcap.leanstream.co/CIHTFM
+
