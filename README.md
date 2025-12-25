@@ -16,6 +16,7 @@
 **---------------------------------------------------------**
 
 - https://sontce.github.io/Channel-List/20251225_RS_TV.m3u
+- https://sontce.github.io/Channel-List/20251225_RS_Hotel.m3u
 
 ### **Disclaimer**
 
