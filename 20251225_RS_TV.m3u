@@ -2,7 +2,7 @@
 #EXTM3U
 # Free IPTV List By RS
 # =======================================================
-# Update 20251223 13:30 UTC+07 ICT
+# Update 20251225 13:30 UTC+07 ICT
 # =======================================================
 
 # =======================================================
@@ -1697,3 +1697,4 @@ https://22253.live.streamtheworld.com/HITZ_955AAC_128_SC?dist=TRITON-WEB&pname=T
 #EXTINF:-1 tvg-chno="1026" ch-number="1026" tvg-name="Hot 899 Canada" tvg-id="Hot 899 Canada" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Hot899.png" group-title="Radio Channel" radio="true",Hot 899 Canada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://newcap.leanstream.co/CIHTFM
+
