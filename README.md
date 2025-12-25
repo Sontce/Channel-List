@@ -19,7 +19,7 @@
 - https://sontce.github.io/Channel-List/20250410_RS_Thaiand_inter_TV_VS_Radio.m3u
 - https://sontce.github.io/Channel-List/20251127_RS_TV.m3u
 - https://sontce.github.io/Channel-List/20251223_RS_TV_AD_V2.m3u
-- 
+- https://sontce.github.io/Channel-List/20251225_RS_TV.m3u
 
 ### **Disclaimer**
 
