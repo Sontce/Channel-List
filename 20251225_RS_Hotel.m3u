@@ -1541,58 +1541,55 @@ https://pureplay.cdnstream1.com/6027_128.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://coolism-web.cdn.byteark.com/;stream/1
 
-#EXTINF:-1 tvg-chno="1013" ch-number="1013" tvg-name="Easy Fm" tvg-id="Easy Fm" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/M5t3aG2vcB.png" group-title="Radio Channel" radio="true",Easy Fm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://22283.live.streamtheworld.com/EAZYFM_1055AAC.aac?dist=TRITON-WEB&dob=&gender=&ttag=work%3A&gdpr=876&gdpr_consent=GDPRCONSENTSTRING&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=970x250&burst-time=15&sbmid=0cdccbd9-9138-4a29-f225-478fca0db2c7
-
-#EXTINF:-1 tvg-chno="1014" ch-number="1014" tvg-name="Met 107" tvg-id="Met 107" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rf6jXen9zU.jpg" group-title="Radio Channel" radio="true",Met 107
+#EXTINF:-1 tvg-chno="1014" ch-number="1013" tvg-name="Met 107" tvg-id="Met 107" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rf6jXen9zU.jpg" group-title="Radio Channel" radio="true",Met 107
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://eb27a17z.mcot.net/FM107/fm107.stream_aac/chunklist_w1012621219.m3u8
 
-#EXTINF:-1 tvg-chno="1015" ch-number="1015" tvg-name="Request Radio Music" tvg-id="Request Radio Music" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png" group-title="Radio Channel" radio="true",Request Radio Music
+#EXTINF:-1 tvg-chno="1015" ch-number="1014" tvg-name="Request Radio Music" tvg-id="Request Radio Music" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png" group-title="Radio Channel" radio="true",Request Radio Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cast.requestradio.in.th:8100/stream
 
-#EXTINF:-1 tvg-chno="1016" ch-number="1016" tvg-name="GreenWave" tvg-id="GreenWave" tvg-logo="https://sontce.github.io/TV-Channel-Icon/GreenWave.png" group-title="Radio Channel" radio="true",GreenWave
+#EXTINF:-1 tvg-chno="1016" ch-number="1015" tvg-name="GreenWave" tvg-id="GreenWave" tvg-logo="https://sontce.github.io/TV-Channel-Icon/GreenWave.png" group-title="Radio Channel" radio="true",GreenWave
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://atimeonline3.smartclick.co.th/green
 
-#EXTINF:-1 tvg-chno="1017" ch-number="1017" tvg-name="EFM" tvg-id="EFM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/EFM.png" group-title="Radio Channel" radio="true",EFM
+#EXTINF:-1 tvg-chno="1017" ch-number="1016" tvg-name="EFM" tvg-id="EFM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/EFM.png" group-title="Radio Channel" radio="true",EFM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://atimeonline3.smartclick.co.th/efm
 
-#EXTINF:-1 tvg-chno="1018" ch-number="1018" tvg-name="HotWave" tvg-id="HotWave" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Hot91_5.png" group-title="Radio Channel" radio="true",HotWave
+#EXTINF:-1 tvg-chno="1018" ch-number="1017" tvg-name="HotWave" tvg-id="HotWave" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Hot91_5.png" group-title="Radio Channel" radio="true",HotWave
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://atimeonline3.smartclick.co.th/hotwave
 
-#EXTINF:-1 tvg-chno="1019" ch-number="1019" tvg-name="Great 93 FM" tvg-id="Great 93 FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Great93FM.png" group-title="Radio Channel" radio="true",Great 93 FM
+#EXTINF:-1 tvg-chno="1019" ch-number="1018" tvg-name="Great 93 FM" tvg-id="Great 93 FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Great93FM.png" group-title="Radio Channel" radio="true",Great 93 FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://radio.vpsthai.net/proxy/qndrbfic/stream
 
-#EXTINF:-1 tvg-chno="1020" ch-number="1020" tvg-name="The Shock FM" tvg-id="The Shock FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/TheShockFM.png" group-title="Radio Channel" radio="true",The Shock FM
+#EXTINF:-1 tvg-chno="1020" ch-number="1019" tvg-name="The Shock FM" tvg-id="The Shock FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/TheShockFM.png" group-title="Radio Channel" radio="true",The Shock FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1021" ch-number="1021" tvg-name="Flex104.5" tvg-id="Flex104.5" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Flex104_5.png" group-title="Radio Channel" radio="true",Flex104.5
+#EXTINF:-1 tvg-chno="1021" ch-number="1020" tvg-name="Flex104.5" tvg-id="Flex104.5" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Flex104_5.png" group-title="Radio Channel" radio="true",Flex104.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1022" ch-number="1022" tvg-name="Talay 90.25 FM" tvg-id="Talay 90.25 FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Talay.png" group-title="Radio Channel" radio="true",Talay 90.25 FM
+#EXTINF:-1 tvg-chno="1022" ch-number="1021" tvg-name="Talay 90.25 FM" tvg-id="Talay 90.25 FM" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Talay.png" group-title="Radio Channel" radio="true",Talay 90.25 FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.talay.asia/talay
 
-#EXTINF:-1 tvg-chno="1023" ch-number="1023" tvg-name="FAT 93" tvg-id="FAT 93" tvg-logo="https://sontce.github.io/TV-Channel-Icon/FAT93.png" group-title="Radio Channel" radio="true",FAT 93
+#EXTINF:-1 tvg-chno="1023" ch-number="1022" tvg-name="FAT 93" tvg-id="FAT 93" tvg-logo="https://sontce.github.io/TV-Channel-Icon/FAT93.png" group-title="Radio Channel" radio="true",FAT 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://112.121.151.133:8272/stream
 
-#EXTINF:-1 tvg-chno="1024" ch-number="1024" tvg-name="Totally Radio 90s" tvg-id="Totally Radio 90s" tvg-logo="https://sontce.github.io/TV-Channel-Icon/totally.png" group-title="Radio Channel" radio="true",Totally Radio 90s
+#EXTINF:-1 tvg-chno="1024" ch-number="1023" tvg-name="Totally Radio 90s" tvg-id="Totally Radio 90s" tvg-logo="https://sontce.github.io/TV-Channel-Icon/totally.png" group-title="Radio Channel" radio="true",Totally Radio 90s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://23153.live.streamtheworld.com/T_RAD_90S_S01_SC
 
-#EXTINF:-1 tvg-chno="1025" ch-number="1025" tvg-name="HITZ Thailand" tvg-id="HITZ Thailand" tvg-logo="https://sontce.github.io/TV-Channel-Icon/HITzThailand.png" group-title="Radio Channel" radio="true",HITZ Thailand
+#EXTINF:-1 tvg-chno="1025" ch-number="1024" tvg-name="HITZ Thailand" tvg-id="HITZ Thailand" tvg-logo="https://sontce.github.io/TV-Channel-Icon/HITzThailand.png" group-title="Radio Channel" radio="true",HITZ Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://22253.live.streamtheworld.com/HITZ_955AAC_128_SC?dist=TRITON-WEB&pname=TDSdk&ttag=work%3A
 
-#EXTINF:-1 tvg-chno="1026" ch-number="1026" tvg-name="Hot 899 Canada" tvg-id="Hot 899 Canada" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Hot899.png" group-title="Radio Channel" radio="true",Hot 899 Canada
+#EXTINF:-1 tvg-chno="1026" ch-number="1025" tvg-name="Hot 899 Canada" tvg-id="Hot 899 Canada" tvg-logo="https://sontce.github.io/TV-Channel-Icon/Hot899.png" group-title="Radio Channel" radio="true",Hot 899 Canada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://newcap.leanstream.co/CIHTFM
+
