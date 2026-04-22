@@ -11,31 +11,23 @@
 
 #EXTINF:-1 tvg-chno="001" ch-number="001" tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="Digital TV", NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
+https://p1.cdn.vet/live/ch11/i/ch11i.m3u8?sid=b5yODhkYzdlNWEyYmMzNDM1ZGNmYgOTZkZmJlYWE4MjE3YWVj
 
 #EXTINF:-1 tvg-chno="002" ch-number="002" tvg-id="TPBS.th" tvg-name="TPBS" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="Digital TV", TPBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8  
-
-#EXTINF:-1 tvg-chno="003" ch-number="003" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://media-mvtv.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png" group-title="Digital TV", ALTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
+https://p1.cdn.vet/live/ch1/i/ch1i.m3u8?sid=b5yM2FiYzFiYmVmMjU1MGViYWUxYgMzU2MDdkNTUzMjllY2Fi
 
 #EXTINF:-1 tvg-chno="004" ch-number="004" tvg-id="5HD.th" tvg-name="5HD" tvg-logo="https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png" group-title="Digital TV", 5HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="005" ch-number="005" tvg-id="T SPORT.th" tvg-name="T SPORT" tvg-logo="https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="Digital TV", T SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
-
 #EXTINF:-1 tvg-chno="006" ch-number="006" tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://media-mvtv.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png" group-title="Digital TV", TPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
 
 #EXTINF:-1 tvg-chno="007" ch-number="007" tvg-id="3HD.th" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="Digital TV", 3HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
+https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yYzAxMzBlMWRiYWE5YWNkYTJmNQMTA5YTU0Y2MxMGQ0MmZi
 
 #EXTINF:-1 tvg-chno="008" ch-number="008" tvg-id="MCOT.th" tvg-name="MCOT" tvg-logo="https://media-mvtv.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png" group-title="Digital TV", MCOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -43,23 +35,19 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/pla
 
 #EXTINF:-1 tvg-chno="009" ch-number="009" tvg-id="TNN.th" tvg-name="TNN" tvg-logo="https://media-mvtv.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png" group-title="Digital TV", TNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
-
-#EXTINF:-1 tvg-chno="010" ch-number="010" tvg-id="JKN18.th" tvg-name="JKN18" tvg-logo="https://media-mvtv.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png" group-title="Digital TV", JKN18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+https://tnnthailand-1mertz.cdn.byteark.com/live/pl_240p/index.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1776857516&x_ark_path_prefix=%2Flive&x_ark_signature=k3cPoPvPZnWVEmZOQIivvA
 
 #EXTINF:-1 tvg-chno="011" ch-number="011" tvg-id="Nation.th" tvg-name="Nation" tvg-logo="https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="Digital TV", Nation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/480p/index.m3u8
+https://p1.cdn.vet/live/ch37/i/ch37i.m3u8?sid=b5yMTg4NzgxYmVkZGY3MzY4MGNiMwOTI4M2IzOWU2NDE2OWI0
 
 #EXTINF:-1 tvg-chno="012" ch-number="012" tvg-id="Workpoint.th" tvg-name="Workpoint" tvg-logo="https://media-mvtv.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png" group-title="Digital TV", Workpoint
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://global-media.sooplive.com/live/workpoint/master.m3u8
+https://live-global-cdn-v02.sooplive.com/live-stmc-24/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Ea1KawqJzgFwyE9VgXDw3xWi5GBeg51RU0bE9GoOVLvZUTFwnJPQgMiafj4C1T0HRj-5wQ3f8eNIK54wnunnvUhucAdY4ZR9PBXo3PxhUyvt7Dp6WptndSW1HCB26WDHm2ZHVBNVpqm8kt2ajokWvP2Rh0DfH-82EBbhsY9zPYc,
 
 #EXTINF:-1 tvg-chno="013" ch-number="013" tvg-id="True24.th" tvg-name="True24" tvg-logo="https://media-mvtv.imgix.net/channel/125_y_vQwogyPUC1FsRhK9TmzSWqb8YI6aktcM.png" group-title="Digital TV", True24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
+https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1776859207&x_ark_path_prefix=%2Flive%2F&x_ark_signature=WPkKgNJGyxGb1R9wQ-fz3g
 
 #EXTINF:-1 tvg-chno="014" ch-number="014" tvg-id="GMM25.th" tvg-name="GMM25" tvg-logo="https://media-mvtv.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png" group-title="Digital TV", GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -67,11 +55,11 @@ https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/
 
 #EXTINF:-1 tvg-chno="015" ch-number="015" tvg-id="ช่อง 8.th" tvg-name="ช่อง 8" tvg-logo="https://media-mvtv.imgix.net/channel/127_y_uhsXzFBxYD6Wq2mpZeIUb4M7RK1ECkn8.png" group-title="Digital TV", ช่อง 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
+https://p0.cdn.vet/live/ch33/i/ch33i.m3u8?sid=b5yNmNjYTE2MTM5NmRjNGY0MzM0MgM2QzZTdkZjA3YzdhNWU3
 
 #EXTINF:-1 tvg-chno="016" ch-number="016" tvg-id="MONO 29.th" tvg-name="MONO 29" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png" group-title="Digital TV", MONO 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8  
+https://p1.cdn.vet/live/ch38/i/ch38i.m3u8?sid=b5yMDZkOTBmZTAwNGRiZjk2YmRmZQMTc5MGZiOTI4ZDczNDUw
 
 #EXTINF:-1 tvg-chno="017" ch-number="017" tvg-id="ONE.th" tvg-name="ONE" tvg-logo="https://media-mvtv.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png" group-title="Digital TV", ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -79,15 +67,15 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
 #EXTINF:-1 tvg-chno="018" ch-number="018" tvg-id="Thairath.th" tvg-name="Thairath" tvg-logo="https://media-mvtv.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png" group-title="Digital TV", Thairath
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+https://p1.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yNjgzMmQ5MzhiNzVkYjk0MmU4YwODRhMzkxYTNmMjAxMGM5
 
 #EXTINF:-1 tvg-chno="019" ch-number="019" tvg-id="Amarin.th" tvg-name="Amarin" tvg-logo="https://media-mvtv.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png" group-title="Digital TV", Amarin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
+https://p0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=b5yNTViZjE1ZDM2MTQzM2ZjZGNmZQMzgzZjcyZGRhNzNhYTlk
 
 #EXTINF:-1 tvg-chno="020" ch-number="020" tvg-id="PPTV.th" tvg-name="PPTV" tvg-logo="https://media-mvtv.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png" group-title="Digital TV", PPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
+https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yZjliZDY1YzQyY2FjYzZkMjNmZANzAyZjhmNzMzYWVhYjg2
 
 #EXTINF:-1 tvg-chno="021" ch-number="021" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="Digital TV", MVTV ท้องถิ่นไทย (75)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -165,6 +153,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
 #EXTINF:-1 tvg-chno="039" ch-number="039" tvg-id="MVM.th" tvg-name="MVM" tvg-logo="https://media-mvtv.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png" group-title="Digital TV", MVM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
+
 
 # =======================================================
 # ===                              International Channel (INTL NEWS)                             ===
