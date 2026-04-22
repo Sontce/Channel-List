@@ -50,7 +50,7 @@ https://live-global-cdn-v02.sooplive.com/live-stmc-24/auth_playlist.m3u8?aid=.A3
 
 #EXTINF:-1 tvg-chno="013" ch-number="013" tvg-id="True24.th" tvg-name="True24" tvg-logo="https://media-mvtv.imgix.net/channel/125_y_vQwogyPUC1FsRhK9TmzSWqb8YI6aktcM.png" group-title="Digital TV", True24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
+https://true4u-p4ljv2.cdn.byteark.com/live/pl_240p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1776858781&x_ark_path_prefix=%2Flive%2F&x_ark_signature=DRK7fAs-RpvrdliHAMeYng
 
 #EXTINF:-1 tvg-chno="014" ch-number="014" tvg-id="GMM25.th" tvg-name="GMM25" tvg-logo="https://media-mvtv.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png" group-title="Digital TV", GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
